@@ -1,11 +1,9 @@
-import './App.css'
+import Note from "./Note"
 
 function App() {
 
     return (
-        <div>
-            <h3>Testing</h3>
-        </div>
+        <Note />
     )
 }
 
